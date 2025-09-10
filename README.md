@@ -2,4 +2,7 @@
 
 Just check README.md
 
-##### Fat heading 
+# Fat heading 
+
+### Usual text
+~~Cross text~~
